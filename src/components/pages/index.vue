@@ -31,7 +31,7 @@ export default {
   },
   data() {
     return {
-      input: "",
+      input: "米津玄師",
       items: []
     }
   },
@@ -46,6 +46,9 @@ export default {
       }
       input = this.input
     })
+  },
+  mounted() {
+    this.getArtists(this.input)
   },
   methods: {
     presenter(results) {
