@@ -7,6 +7,7 @@ RxJS + iTunes API
 
 ## development
 
-1. `npm install`
-2. `npm run build`
-3. `open view/index.html`
+1. `git clone https://github.com/konojunya/RxiTunes.git`
+2. `npm install`
+3. `npm run build`
+4. `open view/index.html`
