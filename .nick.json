@@ -1,1 +1,1 @@
-{"dependencies":["rxjs","vue","axios"],"devDependencies":null}
+{"dependencies":["rxjs","vue","axios"],"devDependencies":["cross-env","css-loader","sass-loader","style-loader","vue-template-compiler","webpack","babel-core","babel-loader","babel-preset-env","file-loader","node-sass","vue-loader"]}
